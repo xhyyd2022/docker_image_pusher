@@ -5,3 +5,4 @@ xhofe/alist
 ghcr.io/monlor/xiaoya-alist
 xiaoyaliu/alist
 jeessy/ddns-go:latest
+drakkan/sftpgo:latest
