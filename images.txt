@@ -6,3 +6,4 @@ ghcr.io/monlor/xiaoya-alist
 xiaoyaliu/alist
 jeessy/ddns-go:latest
 drakkan/sftpgo:latest
+p3terx/aria2-pro
