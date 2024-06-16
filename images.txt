@@ -7,3 +7,4 @@ xiaoyaliu/alist
 jeessy/ddns-go:latest
 drakkan/sftpgo:latest
 p3terx/aria2-pro
+p3terx/ariang
