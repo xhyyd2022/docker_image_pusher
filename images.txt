@@ -8,3 +8,4 @@ jeessy/ddns-go:latest
 drakkan/sftpgo:latest
 p3terx/aria2-pro
 p3terx/ariang
+kodcloud/kodbox:v1.4505
