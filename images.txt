@@ -10,3 +10,4 @@ p3terx/aria2-pro
 p3terx/ariang
 kodcloud/kodbox:v1.4505
 whyour/qinglong:2.17.6
+adguard/adguardhome
