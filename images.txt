@@ -12,3 +12,5 @@ kodcloud/kodbox:v1.4505
 whyour/qinglong:2.17.6
 adguard/adguardhome:latest
 lobehub/lobe-chat:latest
+koishijs/koishi:latest
+mlikiowa/napcat-docker:latest
